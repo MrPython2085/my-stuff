@@ -1,1 +1,3 @@
 # my-stuff
+
+print Hello!
